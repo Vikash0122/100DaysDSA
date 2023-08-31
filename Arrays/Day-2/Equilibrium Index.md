@@ -1,6 +1,6 @@
 # Equilibrium Index
 
-(CodeStudio)[https://parikh.club/parikh_arrays_4]
+[CodeStudio](https://parikh.club/parikh_arrays_4)
 ~~~
 #include <bits/stdc++.h> 
 int findEquilibriumIndex(vector<int> &arr) {
